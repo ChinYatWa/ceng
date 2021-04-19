@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ceng-dev-35937-authRole",
+      "UnauthRoleArn": "arn:aws:iam::888662337032:role/amplify-ceng-dev-35937-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::888662337032:role/amplify-ceng-dev-35937-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ceng-dev-35937-deployment",
+      "UnauthRoleName": "amplify-ceng-dev-35937-unauthRole",
+      "StackName": "amplify-ceng-dev-35937",
+      "StackId": "arn:aws:cloudformation:us-east-1:888662337032:stack/amplify-ceng-dev-35937/c894eda0-a149-11eb-b620-0adbfd4180bb",
+      "AmplifyAppId": "d326w3gbhgs2lm"
+    }
+  }
+}
